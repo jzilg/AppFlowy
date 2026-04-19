@@ -700,7 +700,8 @@
           "us": "美國",
           "iso": "ISO",
           "friendly": "友善",
-          "dmy": "日/月/年"
+          "dmySlashes": "日/月/年",
+          "dmyDots": "日.月.年"
         }
       },
       "language": {
@@ -1327,7 +1328,8 @@
         "us": "美國",
         "iso": "ISO",
         "friendly": "友善",
-        "dmy": "日/月/年"
+        "dmySlashes": "日/月/年",
+        "dmyDots": "日.月.年"
       },
       "timeFormat": {
         "label": "時間格式",

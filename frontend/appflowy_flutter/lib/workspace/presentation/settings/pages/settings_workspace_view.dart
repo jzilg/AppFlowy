@@ -551,8 +551,10 @@ class _DateFormatDropdown extends StatelessWidget {
           LocaleKeys.settings_workspacePage_dateTime_dateFormat_iso.tr(),
         UserDateFormatPB.Friendly =>
           LocaleKeys.settings_workspacePage_dateTime_dateFormat_friendly.tr(),
-        UserDateFormatPB.DayMonthYear =>
-          LocaleKeys.settings_workspacePage_dateTime_dateFormat_dmy.tr(),
+        UserDateFormatPB.DayMonthYearWithSlashes =>
+          LocaleKeys.settings_workspacePage_dateTime_dateFormat_dmySlashes.tr(),
+        UserDateFormatPB.DayMonthYearWithDots =>
+          LocaleKeys.settings_workspacePage_dateTime_dateFormat_dmyDots.tr(),
         _ => "Unknown format",
       };
 }

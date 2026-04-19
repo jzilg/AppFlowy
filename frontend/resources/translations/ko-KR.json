@@ -648,7 +648,8 @@
           "us": "미국",
           "iso": "ISO",
           "friendly": "친숙한",
-          "dmy": "일/월/년"
+          "dmySlashes": "일/월/년",
+          "dmyDots": "일.월.년"
         }
       },
       "language": {
@@ -1265,7 +1266,8 @@
         "us": "미국",
         "iso": "ISO",
         "friendly": "친숙한",
-        "dmy": "일/월/년"
+        "dmySlashes": "일/월/년",
+        "dmyDots": "일.월.년"
       },
       "timeFormat": {
         "label": "시간 형식",

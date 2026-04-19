@@ -489,7 +489,8 @@
           "us": "US",
           "iso": "ISO",
           "friendly": "дружній",
-          "dmy": "Д/М/Р"
+          "dmySlashes": "Д/М/Р",
+          "dmyDots": "Д.М.Р"
         }
       },
       "language": {
@@ -1084,7 +1085,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Дружній",
-        "dmy": "Д/М/Р"
+        "dmySlashes": "Д/М/Р",
+        "dmyDots": "Д.М.Р"
       },
       "timeFormat": {
         "label": "Формат часу",

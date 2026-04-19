@@ -738,7 +738,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Přátelský",
-        "dmy": "D/M/Y"
+        "dmySlashes": "D/M/Y",
+        "dmyDots": "D.M.Y"
       },
       "timeFormat": {
         "label": "Formát času",

@@ -128,7 +128,8 @@ extension GetDateFormatExtension on DateFormatPB {
         DateFormatPB.US => 'y/MM/dd',
         DateFormatPB.ISO => 'y-MM-dd',
         DateFormatPB.Friendly => 'MMM dd, y',
-        DateFormatPB.DayMonthYear => 'dd/MM/y',
+        DateFormatPB.DayMonthYearWithSlashes => 'dd/MM/y',
+        DateFormatPB.DayMonthYearWithDots => 'dd.MM.y',
         _ => 'MMM dd, y',
       };
 }

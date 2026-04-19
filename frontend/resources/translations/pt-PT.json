@@ -309,7 +309,8 @@
         "us": "EUA",
         "iso": "ISO",
         "friendly": "Amigável",
-        "dmy": "D/M/A"
+        "dmySlashes": "D/M/A",
+        "dmyDots": "D.M.A"
       },
       "timeFormat": {
         "label": "Formato de hora",

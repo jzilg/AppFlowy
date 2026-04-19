@@ -700,7 +700,8 @@
           "us": "US",
           "iso": "ISO",
           "friendly": "Friendly",
-          "dmy": "D/M/Y"
+          "dmySlashes": "D/M/Y",
+          "dmyDots": "D.M.Y"
         }
       },
       "language": {
@@ -1327,7 +1328,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Friendly",
-        "dmy": "D/M/Y"
+        "dmySlashes": "D/M/Y",
+        "dmyDots": "D.M.Y"
       },
       "timeFormat": {
         "label": "Time format",

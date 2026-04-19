@@ -494,7 +494,8 @@
           "us": "US",
           "iso": "ISO",
           "friendly": "Thân thiện",
-          "dmy": "D/M/Y"
+          "dmySlashes": "D/M/Y",
+          "dmyDots": "D.M.Y"
         }
       },
       "language": {
@@ -1085,7 +1086,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Thân thiện",
-        "dmy": "D/M/Y"
+        "dmySlashes": "D/M/Y",
+        "dmyDots": "D.M.Y"
       },
       "timeFormat": {
         "label": "Định dạng giờ",

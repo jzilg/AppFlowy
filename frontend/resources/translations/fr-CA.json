@@ -429,7 +429,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Convivial",
-        "dmy": "J/M/A"
+        "dmySlashes": "J/M/A",
+        "dmyDots": "J.M.A"
       },
       "timeFormat": {
         "label": "Format de l'heure",

@@ -144,8 +144,10 @@ extension DateFormatExtension on DateFormatPB {
         return LocaleKeys.grid_field_dateFormatLocal.tr();
       case DateFormatPB.US:
         return LocaleKeys.grid_field_dateFormatUS.tr();
-      case DateFormatPB.DayMonthYear:
-        return LocaleKeys.grid_field_dateFormatDayMonthYear.tr();
+      case DateFormatPB.DayMonthYearWithSlashes:
+        return LocaleKeys.grid_field_dateFormatDayMonthYearSlashes.tr();
+      case DateFormatPB.DayMonthYearWithDots:
+        return LocaleKeys.grid_field_dateFormatDayMonthYearDots.tr();
       case DateFormatPB.FriendlyFull:
         return LocaleKeys.grid_field_dateFormatFriendly.tr();
       default:

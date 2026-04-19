@@ -308,7 +308,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "ተስማሚ",
-        "dmy": "D/M/Y"
+        "dmySlashes": "D/M/Y",
+        "dmyDots": "D.M.Y"
       },
       "timeFormat": {
         "label": "የጊዜ ቅርጸት",

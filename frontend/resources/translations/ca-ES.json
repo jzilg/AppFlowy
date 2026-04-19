@@ -333,7 +333,8 @@
         "label": "Format de data",
         "local": "Local",
         "iso": "ISO",
-        "dmy": "D/M/A"
+        "dmySlashes": "D/M/A",
+        "dmyDots": "D.M.A"
       },
       "timeFormat": {
         "label": "Format horari",

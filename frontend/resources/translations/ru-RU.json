@@ -674,7 +674,8 @@
           "us": "США",
           "iso": "ISO",
           "friendly": "Удобный",
-          "dmy": "Д/М/Г"
+          "dmySlashes": "Д/М/Г",
+          "dmyDots": "Д.М.Г"
         }
       },
       "language": {
@@ -1298,7 +1299,8 @@
         "us": "США",
         "iso": "ISO",
         "friendly": "Удобный",
-        "dmy": "Д/М/Г"
+        "dmySlashes": "Д/М/Г",
+        "dmyDots": "Д.М.Г"
       },
       "timeFormat": {
         "label": "Формат времени",

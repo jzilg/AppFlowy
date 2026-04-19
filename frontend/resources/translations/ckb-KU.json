@@ -425,7 +425,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "بەکارهێنانی ئاسانە",
-        "dmy": "ڕ/م/س"
+        "dmySlashes": "ڕ/م/س",
+        "dmyDots": "ڕ.م.س"
       },
       "timeFormat": {
         "label": "فۆرماتی کات",

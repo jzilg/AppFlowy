@@ -435,7 +435,8 @@
           "us": "אמריקאית",
           "iso": "ISO",
           "friendly": "ידידותית",
-          "dmy": "D/M/Y"
+          "dmySlashes": "D/M/Y",
+          "dmyDots": "D.M.Y"
         }
       },
       "language": {
@@ -904,7 +905,8 @@
         "us": "אמריקאית",
         "iso": "ISO",
         "friendly": "ידידותית",
-        "dmy": "D/M/Y"
+        "dmySlashes": "D/M/Y",
+        "dmyDots": "D.M.Y"
       },
       "timeFormat": {
         "label": "תבנית שעה",

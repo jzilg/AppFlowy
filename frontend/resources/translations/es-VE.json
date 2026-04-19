@@ -519,7 +519,8 @@
         "us": "US (Estados Unidos)",
         "iso": "ISO ",
         "friendly": "Amigable",
-        "dmy": "D/M/A"
+        "dmySlashes": "D/M/A",
+        "dmyDots": "D.M.A"
       },
       "timeFormat": {
         "label": "Formato de la hora",

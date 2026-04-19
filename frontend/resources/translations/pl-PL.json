@@ -395,7 +395,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Przyjazny",
-        "dmy": "D/M/R"
+        "dmySlashes": "D/M/R",
+        "dmyDots": "D.M.R"
       },
       "timeFormat": {
         "label": "Format godziny",

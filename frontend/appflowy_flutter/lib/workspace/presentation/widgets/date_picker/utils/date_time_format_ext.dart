@@ -3,7 +3,8 @@ import 'package:appflowy_backend/protobuf/flowy-user/protobuf.dart';
 
 extension ToDateFormat on UserDateFormatPB {
   DateFormatPB get simplified => switch (this) {
-        UserDateFormatPB.DayMonthYear => DateFormatPB.DayMonthYear,
+        UserDateFormatPB.DayMonthYearWithSlashes => DateFormatPB.DayMonthYearWithSlashes,
+        UserDateFormatPB.DayMonthYearWithDots => DateFormatPB.DayMonthYearWithDots,
         UserDateFormatPB.Friendly => DateFormatPB.Friendly,
         UserDateFormatPB.ISO => DateFormatPB.ISO,
         UserDateFormatPB.Locally => DateFormatPB.Local,

@@ -589,7 +589,8 @@
           "us": "US",
           "iso": "ISO",
           "friendly": "ที่เข้าใจง่าย",
-          "dmy": "D/M/Y"
+          "dmySlashes": "D/M/Y",
+          "dmyDots": "D.M.Y"
         }
       },
       "language": {
@@ -1191,7 +1192,8 @@
         "us": "US",
         "iso": "สากล",
         "friendly": "แบบง่าย",
-        "dmy": "วัน/เดือน/ปี"
+        "dmySlashes": "วัน/เดือน/ปี",
+        "dmyDots": "วัน.เดือน.ปี"
       },
       "timeFormat": {
         "label": "รูปแบบเวลา",

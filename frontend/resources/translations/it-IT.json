@@ -706,7 +706,8 @@
           "us": "US",
           "iso": "ISO",
           "friendly": "Amichevole",
-          "dmy": "G/M/A"
+          "dmySlashes": "G/M/A",
+          "dmyDots": "G.M.A"
         }
       },
       "language": {
@@ -1275,7 +1276,8 @@
         "us": "US",
         "iso": "ISO",
         "friendly": "Amichevole",
-        "dmy": "G/M/A"
+        "dmySlashes": "G/M/A",
+        "dmyDots": "G.M.A"
       },
       "timeFormat": {
         "label": "Formato orario",

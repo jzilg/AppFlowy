@@ -5,7 +5,8 @@ const _localFmt = 'MM/dd/y';
 const _usFmt = 'y/MM/dd';
 const _isoFmt = 'y-MM-dd';
 const _friendlyFmt = 'MMM dd, y';
-const _dmyFmt = 'dd/MM/y';
+const _dmySlashesFmt = 'dd/MM/y';
+const _dmyDotsFmt = 'dd.MM.y';
 
 extension DateFormatter on UserDateFormatPB {
   DateFormat get toFormat {
@@ -44,5 +45,6 @@ final _toFormat = {
   UserDateFormatPB.US: _usFmt,
   UserDateFormatPB.ISO: _isoFmt,
   UserDateFormatPB.Friendly: _friendlyFmt,
-  UserDateFormatPB.DayMonthYear: _dmyFmt,
+  UserDateFormatPB.DayMonthYearWithSlashes: _dmySlashesFmt,
+  UserDateFormatPB.DayMonthYearWithDots: _dmyDotsFmt,
 };
